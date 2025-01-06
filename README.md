@@ -6,7 +6,7 @@
 
 A Deliveroo clone built with React Native and Expo, featuring real-time location tracking, animated UI components, and a seamless food ordering experience. 🚀
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1217649751630286949/1322283465550598245/Aspen_Travel_App_Exploration-_Mobile_App_Design.png?ex=67704ff1&is=676efe71&hm=08226d9b21e7d813158f2f62d2cd035351549f12dfab3c911d5c3fb2b9f642d6&)
+![App Screenshot](https://images-tobi.s3.eu-north-1.amazonaws.com/Aspen_Travel_App_Exploration-_Mobile_App_Design.png)
 
 ## ✨ Features
 
