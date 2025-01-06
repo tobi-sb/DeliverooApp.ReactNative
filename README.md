@@ -56,9 +56,6 @@ npx expo
 - Scan the QR code with Expo Go (Android) or Camera app (iOS)
 - Or run on simulator/emulator:
   ```bash
-  npm run ios
-  # or
-  npm run android
   ```
 
 ## 🔧 Configuration
